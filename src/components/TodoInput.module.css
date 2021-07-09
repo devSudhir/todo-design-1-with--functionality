@@ -1,0 +1,14 @@
+.transparentBack {
+  background: transparent;
+}
+.styleInput {
+  padding: 10px;
+  border: 1px solid aqua;
+  border-radius: 10px;
+  font-size: 1.4rem;
+  color: #fff;
+}
+.styleInput:focus {
+  background: #333;
+  color: #fff;
+}

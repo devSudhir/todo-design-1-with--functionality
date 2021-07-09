@@ -1,0 +1,25 @@
+.colorWhite {
+  color: white;
+  width: 40vw;
+  margin: auto;
+  background: #000000a6;
+  opacity: 0.7;
+}
+.spanspacing {
+  padding: 10px;
+  margin: 10px;
+}
+.buttonspacing {
+  padding: 3px;
+  margin: 5px;
+  color: #fff;
+  background-color: #333;
+  border-radius: 7px;
+}
+.displayFlex {
+  display: flex;
+  font-size: 1.3rem;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
